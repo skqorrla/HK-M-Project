@@ -1,2 +1,5 @@
 # 원본 데이터 ignore
 raw_data/
+
+# 환경 변수 파일
+.env
